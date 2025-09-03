@@ -2,12 +2,17 @@
 This repository provides the PyTorch code used in our expert study to compare the perceived realism of synthetic steel microstructures of two deep generative models:
 
 ```
-@article{wentzien2025visualqualitysteelmicrostructures,
-author = {Wentzien, Marcel and Ingber, Jerome and Schloetterer, Joerg and Schmalzried, Dirk},
-title = {Comparing the visual quality of deep generative models for steel microstructures},
-year = {2025},
-journal = {TBA},
-doi = {TBA},
+@InProceedings{wentzien2026visualqualitysteelmicrostructures,
+author="Wentzien, Marcel and Ingber, Jerome and Schl{\"o}tterer, J{\"o}rg and Schmalzried, Dirk",
+editor="Braun, Tanya and Paa{\ss}en, Benjamin and Stolzenburg, Frieder",
+title="Comparing the Visual Quality of Deep Generative Models for Steel Microstructures",
+booktitle="KI 2025: Advances in Artificial Intelligence",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="278--285",
+isbn="978-3-032-02813-6",
+doi="10.1007/978-3-032-02813-6_23"
 }
 ```
 
